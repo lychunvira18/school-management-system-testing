@@ -12,7 +12,7 @@ const testFunction = () => {
   return 0;
 };
 
-describe("GRT Head Component", () => {
+describe("Session Table Head Head Component", () => {
   describe("Passing props", () => {
     it("Should not throw a warning!", () => {
       const expectedProps = {
